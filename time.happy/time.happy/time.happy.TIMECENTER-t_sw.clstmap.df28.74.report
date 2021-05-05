@@ -1,0 +1,23 @@
+#
+#  Cluster report 
+#[ Dataset prefix      = time.happy.TIMECENTER-t_sw.nullcrrct.nii.gz ]
+#[ Threshold vol       = [0] ]
+#[ Supplement dat vol  = [0] ]
+#[ Option summary      = -bisided,p=.005,clust_nvox,451,NN3 ]
+#[ Threshold value(s)  = left-tail p=0.005000 -> stat=-3.040292;  right-tail p=0.005000 -> stat=3.040292 ]
+#[ Aux. stat. info.    = DEGREES-of-FREEDOM : 28.74  ]
+#[ Nvoxel threshold    = 451;  Volume threshold = 3608.000 ]
+#[ Single voxel volume = 8.000 (microliters) ]
+#[ Neighbor type, NN   = 3 ]
+#[ Voxel datum type    = float ]
+#[ Voxel dimensions    = 2.000 mm X 2.000 mm X 2.000 mm ]
+#[ Coordinates Order   = RAI ]
+#[ Mask                = ./../mask.nii.gz ]
+# Mean and SEM based on absolute value of voxel intensities ]
+#
+#Volume  CM RL  CM AP  CM IS  minRL  maxRL  minAP  maxAP  minIS  maxIS    Mean     SEM    Max Int  MI RL  MI AP  MI IS
+#------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -------  -------  -------  -----  -----  -----
+  16413    0.3   75.4  -14.4  -60.0   66.0   28.0  106.0  -58.0   34.0   3.9193    0.006  -8.6707   10.0   94.0   -6.0 
+    949  -28.0   54.3   55.1  -46.0   -8.0   32.0   74.0   46.0   76.0   3.5852   0.0148  -5.3378  -26.0   56.0   54.0 
+#------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -------  -------  -------  -----  -----  -----
+# 17362   -1.1   74.3  -10.9                                             3.9011   0.0058                             

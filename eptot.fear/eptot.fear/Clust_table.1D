@@ -1,0 +1,7 @@
+# AFNI interactive cluster table
+# 3dclust -1Dformat -nosum -1dindex 0 -1tindex 0 -2thresh -3.238 3.238 -dxyz=1 1.75 451 /users/jflournoy/NewNeuropoint/eptot.fear/eptot.fear/eptot.fear.WCEN_EPISODICTOT-t_sw.nullcrrct.nii.gz
+#Coordinate order = LPI
+#Voxels  CM x   CM y   CM z  Peak x Peak y Peak z
+#------ ------ ------ ------ ------ ------ ------
+    595   +2.1  -38.0  +34.5   +8.0  -38.0  +32.0
+    470   +3.3   +6.3  +39.0   +8.0   +2.0  +44.0

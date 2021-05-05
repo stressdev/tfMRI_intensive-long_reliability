@@ -1,0 +1,22 @@
+#
+#  Cluster report 
+#[ Dataset prefix      = eptot.fear.WCEN_EPISODICTOT-t_sw.nullcrrct.nii.gz ]
+#[ Threshold vol       = [0] ]
+#[ Supplement dat vol  = [0] ]
+#[ Option summary      = -bisided,p=.005,clust_nvox,451,NN3 ]
+#[ Threshold value(s)  = left-tail p=0.005000 -> stat=-0.000000;  right-tail p=0.005000 -> stat=0.000000 ]
+#[ Aux. stat. info.    = DEGREES-of-FREEDOM : 0  ]
+#[ Nvoxel threshold    = 451;  Volume threshold = 3608.000 ]
+#[ Single voxel volume = 8.000 (microliters) ]
+#[ Neighbor type, NN   = 3 ]
+#[ Voxel datum type    = float ]
+#[ Voxel dimensions    = 2.000 mm X 2.000 mm X 2.000 mm ]
+#[ Coordinates Order   = RAI ]
+# Mean and SEM based on absolute value of voxel intensities ]
+#
+#Volume  CM RL  CM AP  CM IS  minRL  maxRL  minAP  maxAP  minIS  maxIS    Mean     SEM    Max Int  MI RL  MI AP  MI IS
+#------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -------  -------  -------  -----  -----  -----
+ 120967    0.8   20.1   14.8  -72.0   70.0  -70.0  106.0  -72.0   80.0   0.8836    0.002  -5.7557   -8.0   -2.0   44.0 
+ 107175    1.1   23.8    8.2  -70.0   70.0  -72.0  106.0  -72.0   80.0   0.8703   0.0022   7.3227   -8.0   38.0   32.0 
+#------  -----  -----  -----  -----  -----  -----  -----  -----  -----  -------  -------  -------  -----  -----  -----
+#228142    1.0   21.8   11.7                                             0.8774   0.0015                             
